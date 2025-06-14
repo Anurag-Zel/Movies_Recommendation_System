@@ -2,8 +2,9 @@
 
 This is a **Machine Learning-based Movie Recommender System** built using Python and Streamlit. The application provides personalized movie suggestions based on a selected title, showing genre, director, and release date. The project is deployed and accessible at:
 
-🔗 **Live Demo:** https://movies-recommendation-system-darkzel.streamlit.app/
-🔗 **Movies Dataset:** https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+#### 🔗***Live Demo:*** https://movies-recommendation-system-darkzel.streamlit.app/
+#### 🔗***Movies Dataset:*** https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 ---
 
 ## 📌 Overview

@@ -44,7 +44,3 @@ This project is ideal for anyone looking to understand how simple NLP models lik
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-
-
-
